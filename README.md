@@ -1,5 +1,5 @@
 
-![Deprecated Banner](views/Deprecated.png)
+![Deprecated Banner](views/Deprecated_Samples.png)
 
 ## Deprecated Repo  ( * this is deprecated repo * )
 
